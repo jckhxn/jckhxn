@@ -1,15 +1,11 @@
-Hi there, welcome to my GitHub 👋🏻
+````bash
+> help --info
+> Full Stack Software Engineer, AWS Certified.
+> I am a full-stack software engineer with four years of experience, specializing in Next.js, TypeScript, and Tailwind CSS. I have a strong track record of delivering high-quality software on time and within budget. I am also a highly motivated and enthusiastic learner, and I am always eager to take on new challenges.
+````
 
-I'm an enthusiastic full stack developer with interests in a variety of technologies.
-
-# What I've been up to recently.
-
-🛒 [Storefront](https://storefront.jackhixon.com) - An eCommerce website with Stripe payment processing, custom wholesale coupon support, and USPS address validation.
-
----
-
-🍕 [OrderUp!](https://github.com/jckhxn/orderup) - Express.JS backend for taking group orders through a websocket connection.
-
----
-
-✈️ [Trvlr](https://travel-log-jck.vercel.app/) - A React App designed to log your travels, using Mapbox to display a map and MongoDB to store your logs.
+````bash
+> help --contact
+> linkedin: [Thomas Hixon](https://www.linkedin.com/in/thomashixon/)
+> mailto: dev@thomashixon.com
+````
